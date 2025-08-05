@@ -116,6 +116,5 @@ int main(){
     ShoppingCartPrinter *printer = new ShoppingCartPrinter(cart);
     printer->printInvoice();
     
-
     return 0;
 }
